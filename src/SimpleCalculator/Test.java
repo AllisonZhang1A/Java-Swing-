@@ -1,4 +1,4 @@
-package ¼òÒ×¼ÆËãÆ÷;
+package SimpleCalculator;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

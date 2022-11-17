@@ -1,4 +1,4 @@
-package 简易计算器;
+package SimpleCalculator;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
